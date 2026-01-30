@@ -5,7 +5,7 @@ import Icon from "../atoms/Icon"
 
 const Header = () => {
     return (
-        <header className="h-[109px] sticky top-0 z-10">
+        <header className="h-[109px] bg-white sticky top-0 z-10">
             <div className="px-2 sm:px-6 lg:px-12 ">
                 <div className="flex items-center justify-between py-2">
                     <Link href="/">
